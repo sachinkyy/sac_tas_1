@@ -36,7 +36,7 @@ Edit
 
 1. **Download or Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/Tic-Tac-Toe.git
+   git clone https://github.com/sachinkyy/sac_tas_1.git
 Navigate to the project folder
 
 bash
